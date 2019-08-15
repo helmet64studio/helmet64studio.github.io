@@ -3,9 +3,21 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Velberan in The Retro World (WIP)
   #i18n: jalpc
-  url: https://www.google.com
-  img: /static/assets/img/landing/velbs_android.png
-  desc: Paranauê Paraná.
+  url: https://play.google.com/store/apps/details?id=com.velberantrw.buildnplay&hl=pt_BR
+  img: /static/assets/img/landing/Velberan_RetroWorld.png
+  desc: Utilize todas as suas habilidades para guiar nosso herói tiozão pelo mundo dos jogos antigos nessa aventura cheia de referências e conteúdo Old School.
+
+- name: Velberan in The Retro World (WIP)
+  #i18n: jalpc
+  url: https://play.google.com/store/apps/details?id=com.velberantrw.buildnplay&hl=pt_BR
+  img: /static/assets/img/landing/Velberan_RetroWorld.png
+  desc: Utilize todas as suas habilidades para guiar nosso herói tiozão pelo mundo dos jogos antigos nessa aventura cheia de referências e conteúdo Old School.
+
+- name: Velberan in The Retro World (WIP)
+  #i18n: jalpc
+  url: https://play.google.com/store/apps/details?id=com.velberantrw.buildnplay&hl=pt_BR
+  img: /static/assets/img/landing/Velberan_RetroWorld.png
+  desc: Utilize todas as suas habilidades para guiar nosso herói tiozão pelo mundo dos jogos antigos nessa aventura cheia de referências e conteúdo Old School.
 
 #- name: Python
  # i18n: cpython

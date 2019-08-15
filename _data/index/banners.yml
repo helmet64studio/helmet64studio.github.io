@@ -3,7 +3,10 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/header_one.png
-  title: first banner image
+  title: Helmet64 Studio
 
 - src: landing/header_two.png
-  title: second banner image
+  title: Helmet64 Studio
+
+- src: landing/header_velberan.png
+  title: Velberan:The Retro World
