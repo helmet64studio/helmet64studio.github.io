@@ -1,8 +1,8 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Velberan in The Retro World
-  i18n: jalpc
+- name: Velberan in The Retro World (WIP)
+  #i18n: jalpc
   url: https://www.google.com
   img: /static/assets/img/landing/velbs_android.png
   desc: Paranauê Paraná.

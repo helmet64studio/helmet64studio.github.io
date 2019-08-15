@@ -353,11 +353,11 @@ button.dim {
 }
 
 .btn-success.btn-outline {
-  color: #1c84c6;
+  color: #FF6600;
 }
 
 .btn-info.btn-outline {
-  color: #23c6c8;
+  color: #FF6600;
 }
 
 .btn-warning.btn-outline {
@@ -373,126 +373,126 @@ button.dim {
   border-color: #FF6600;
   color: #FFF;
   &.active {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #0073B1;
-      border-color: #0073B1;
+      background-color: #FF6600;
+      border-color: #FF6600;
       color: #FFF;
     }
   }
   &:active {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #0073B1;
-      border-color: #0073B1;
+      background-color: #FF6600;
+      border-color: #FF6600;
       color: #FFF;
     }
   }
   &:focus, &:hover {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
   }
   &.active[disabled] {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #FF6600;
+    border-color: #FF6600;
   }
   &[disabled] {
-    background-color: #0073B1;
-    border-color: #0073B1;
+    background-color: #FF6600;
+    border-color: #FF6600;
     &:active, &:focus, &:hover {
-      background-color: #0073B1;
-      border-color: #0073B1;
+      background-color: #FF6600;
+      border-color: #FF6600;
     }
   }
 }
 
 .btn-success {
-  background-color: #1c84c6;
-  border-color: #1c84c6;
+  background-color: #FF6600;
+  border-color: #FF6600;
   color: #FFF;
   &.active {
-    background-color: #1a7bb9;
-    border-color: #1a7bb9;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #1a7bb9;
-      border-color: #1a7bb9;
+      background-color: #FF6600;
+      border-color: #FF6600;
       color: #FFF;
     }
   }
   &:active {
-    background-color: #1a7bb9;
-    border-color: #1a7bb9;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #1a7bb9;
-      border-color: #1a7bb9;
+      background-color: #FF6600;
+      border-color: #FF6600;
       color: #FFF;
     }
   }
   &:focus, &:hover {
-    background-color: #1a7bb9;
-    border-color: #1a7bb9;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
   }
   &.active[disabled] {
-    background-color: #1f90d8;
-    border-color: #1f90d8;
+    background-color: #FF6600;
+    border-color: #FF6600;
   }
   &[disabled] {
-    background-color: #1f90d8;
-    border-color: #1f90d8;
+    background-color: #FF6600;
+    border-color: #FF6600;
     &:active, &:focus, &:hover {
-      background-color: #1f90d8;
-      border-color: #1f90d8;
+      background-color: #FF6600;
+      border-color: #FF6600;
     }
   }
 }
 
 .btn-info {
-  background-color: #23c6c8;
-  border-color: #23c6c8;
+  background-color: #FF6600;
+  border-color: #FF6600;
   color: #FFF;
   &.active {
-    background-color: #21b9bb;
-    border-color: #21b9bb;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #21b9bb;
-      border-color: #21b9bb;
+      background-color: #FF6600;
+      border-color: #FF6600;
       color: #FFF;
     }
   }
   &:active {
-    background-color: #21b9bb;
-    border-color: #21b9bb;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
     &:focus, &:hover {
-      background-color: #21b9bb;
-      border-color: #21b9bb;
+      background-color: #FF6600;
+      border-color: #FF6600;
       color: #FFF;
     }
   }
   &:focus, &:hover {
-    background-color: #21b9bb;
-    border-color: #21b9bb;
+    background-color: #FF6600;
+    border-color: #FF6600;
     color: #FFF;
   }
   &.active[disabled] {
-    background-color: #26d7d9;
-    border-color: #26d7d9;
+    background-color: #FF6600;
+    border-color: #FF6600;
   }
   &[disabled] {
-    background-color: #26d7d9;
-    border-color: #26d7d9;
+    background-color: #FF6600;
+    border-color: #FF6600;
     &:active, &:focus, &:hover {
-      background-color: #26d7d9;
-      border-color: #26d7d9;
+      background-color: #FF6600;
+      border-color: #FF6600;
     }
   }
 }
@@ -698,9 +698,9 @@ button {
     }
   }
   &.btn-primary.dim {
-    box-shadow: inset 0 0 0 #16987e, 0 5px 0 0 #16987e, 0 10px 5px #999;
+    box-shadow: inset 0 0 0 #FF6600, 0 5px 0 0 #FF6600, 0 10px 5px #999;
     &:active {
-      box-shadow: inset 0 0 0 #16987e, 0 2px 0 0 #16987e, 0 5px 3px #999;
+      box-shadow: inset 0 0 0 #FF6600, 0 2px 0 0 #FF6600, 0 5px 3px #999;
     }
   }
   &.btn-default.dim {
@@ -716,15 +716,15 @@ button {
     }
   }
   &.btn-info.dim {
-    box-shadow: inset 0 0 0 #1eacae, 0 5px 0 0 #1eacae, 0 10px 5px #999;
+    box-shadow: inset 0 0 0 #FF6600, 0 5px 0 0 #FF6600, 0 10px 5px #999;
     &:active {
-      box-shadow: inset 0 0 0 #1eacae, 0 2px 0 0 #1eacae, 0 5px 3px #999;
+      box-shadow: inset 0 0 0 #FF6600, 0 2px 0 0 #FF6600, 0 5px 3px #999;
     }
   }
   &.btn-success.dim {
-    box-shadow: inset 0 0 0 #1872ab, 0 5px 0 0 #1872ab, 0 10px 5px #999;
+    box-shadow: inset 0 0 0 #FF6600, 0 5px 0 0 #FF6600, 0 10px 5px #999;
     &:active {
-      box-shadow: inset 0 0 0 #1872ab, 0 2px 0 0 #1872ab, 0 5px 3px #999;
+      box-shadow: inset 0 0 0 #FF6600, 0 2px 0 0 #FF6600, 0 5px 3px #999;
     }
   }
   &.dim:before {
@@ -765,7 +765,7 @@ button.dim:active:before {
 }
 
 .label-success {
-  background-color: #1c84c6;
+  background-color: #FF6600;
   color: #FFF;
 }
 
@@ -780,7 +780,7 @@ button.dim:active:before {
 }
 
 .label-info {
-  background-color: #23c6c8;
+  background-color: #FF6600;
   color: #FFF;
 }
 
@@ -1444,11 +1444,11 @@ code {
 }
 
 .panel-success {
-  border-color: #1c84c6;
+  border-color: #FF6600;
 }
 
 .panel-info {
-  border-color: #23c6c8;
+  border-color: #FF6600;
 }
 
 .panel-warning {
@@ -1468,11 +1468,11 @@ code {
 }
 
 .text-success {
-  color: #1c84c6;
+  color: #FF6600;
 }
 
 .text-info {
-  color: #23c6c8;
+  color: #FF6600;
 }
 
 .text-warning {
@@ -1734,10 +1734,10 @@ ul.clear-list:first-child {
       color: #FF6600;
     }
     .text-primary {
-      color: #1c84c6;
+      color: #FF6600;
     }
     .text-info {
-      color: #23c6c8;
+      color: #FF6600;
     }
     .text-warning {
       color: #F8AC59;
@@ -2699,15 +2699,15 @@ body {
       background-image: none;
     }
     &.active[disabled] {
-      background-color: #1dc5a3;
-      border-color: #1dc5a3;
+      background-color: #FF6600;
+      border-color: #FF6600;
     }
     &[disabled] {
-      background-color: #1dc5a3;
-      border-color: #1dc5a3;
+      background-color: #FF6600;
+      border-color: #FF6600;
       &:active, &:focus, &:hover {
-        background-color: #1dc5a3;
-        border-color: #1dc5a3;
+        background-color: #FF6600;
+        border-color: #FF6600;
       }
     }
   }

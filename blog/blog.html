@@ -7,7 +7,7 @@ permalink: /blog/
 <div class="row">
     <div class="col-lg-12 text-center">
         <div class="navy-line"></div>
-        <h1>Latest Blog</h1>
+        <h1>Postagens Recentes</h1>
     </div>
 </div>
 
@@ -27,7 +27,7 @@ permalink: /blog/
                         </a>
                         <div class="vote-info">
                         {% if site.disqus %}
-                            <i class="fa fa-comments-o"> </i> <a>Comments (<span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
+                            <i class="fa fa-comments-o"> </i> <a>Comentários (<span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ post.url }}">0</span>)</a>
                         {% endif %}
                             <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
                             <i class="fa fa-user"></i> <a>{{ site.author.name }}</a>

@@ -2,7 +2,7 @@
 
 # Website settings
 title: Helmet64 Studio
-description: Helmet64 Studio's site, links and projects you find here.
+description: Helmet64 Studio Games. Links, Projetos e Devlogs você encontra aqui.
 keywords: games, games br, games brasil, indie games, indie games pc, indie games android, indie developer, twitter, youtube, instagram, itch.io, gamejolt, game jam
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://helmet64studio.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -31,11 +31,11 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: 
     - name: 
-  desc: Paranauê Paraná.  # Describe yourself.
+  desc: Um pequeno time indie de desenvolvedores de jogos formado por duas pessoas, "Koro" e "Skynoryu".<p>Apesar de estarmos trabalhando juntos desde 2018, agora que estamos tomando rumos mais profissionais para nossos projetos.<p>Focados em games 2D, buscamos trazer um pouco da essência de grandes sucessos do passado e mesclar com propostas mais atuais tentando atingir os diferentes tipos de jogadores.<p>Dúvidas, críticas e sugestões entre em contato em alguma de nossas redes sociais! # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: Helmet64
+#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#  name: Helmet64
 
 # analytics
 ## google analytics
