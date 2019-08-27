@@ -7,17 +7,17 @@
   img: /static/assets/img/landing/Velberan_RetroWorld.png
   desc: Utilize todas as suas habilidades para guiar nosso herói tiozão pelo mundo dos jogos antigos nessa aventura cheia de referências e conteúdo Old School.
 
-- name: Velberan in The Retro World (WIP)
+- name: Sci-Magic (WIP)
   #i18n: jalpc
   url: https://play.google.com/store/apps/details?id=com.velberantrw.buildnplay&hl=pt_BR
-  img: /static/assets/img/landing/Velberan_RetroWorld.png
-  desc: Utilize todas as suas habilidades para guiar nosso herói tiozão pelo mundo dos jogos antigos nessa aventura cheia de referências e conteúdo Old School.
+  img: /static/assets/img/landing/SciMagic.png
+  desc: Ciência ou Magia? Escolha seu lado nesse combate milenar e derrote o adversário com toda sua habilidade.
 
-- name: Velberan in The Retro World (WIP)
+- name: Alienações 2018
   #i18n: jalpc
-  url: https://play.google.com/store/apps/details?id=com.velberantrw.buildnplay&hl=pt_BR
-  img: /static/assets/img/landing/Velberan_RetroWorld.png
-  desc: Utilize todas as suas habilidades para guiar nosso herói tiozão pelo mundo dos jogos antigos nessa aventura cheia de referências e conteúdo Old School.
+  url: https://play.google.com/store/apps/details?id=com.aliendestruction.bnp&hl=pt_BR
+  img: /static/assets/img/landing/alienacoes2018.png
+  desc: Seres estranhos invadiram o Brasil na época das eleições. Seja consciente e ajude a defender nosso país!
 
 #- name: Python
  # i18n: cpython
