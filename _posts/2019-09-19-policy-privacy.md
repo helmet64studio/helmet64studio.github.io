@@ -8,7 +8,7 @@ categories: []
 tags: [Policy Privacy]
 icon: 
 ---
-[Versão em Português](https://helmet64studio.com/html/2019/09/19/politica-de-privacidade.html)
+[Versão em Português](https://helmet64studio.com/2019/09/19/politica-de-privacidade.html)
 
 ## PRIVACY POLICY ##
 ## HELMET64 STUDIO® ##

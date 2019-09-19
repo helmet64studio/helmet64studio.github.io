@@ -8,7 +8,7 @@ categories: []
 tags: [Termos de Uso]
 icon: 
 ---
-[English Version](https://helmet64studio.com/html/2019/09/19/terms-of-use.html)
+[English Version](https://helmet64studio.com/2019/09/19/terms-of-use.html)
 
 
 **POR FAVOR, LEIA ATENTAMENTE ESTES TERMOS DE USO. AO ACESSAR, USAR ESTE APP, VOCÊ CONCORDA EM ESTAR SOB OS TERMOS E CONDIÇÕES AQUI DESCRITAS E COM TODOS OS TERMOS INCORPORADOS POR REMISSÃO. SE VOCÊ NÃO CONCORDAR COM TODOS ESTES TERMOS, NÃO UTILIZE ESTE SITE OU O JOGO.**
